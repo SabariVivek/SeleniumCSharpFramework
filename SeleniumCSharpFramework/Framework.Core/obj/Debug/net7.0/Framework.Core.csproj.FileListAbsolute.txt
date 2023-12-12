@@ -1,0 +1,16 @@
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\Framework.Core.deps.json
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\Framework.Core.dll
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\Framework.Core.pdb
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.csproj.AssemblyReference.cache
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.AssemblyInfoInputs.cache
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.AssemblyInfo.cs
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.dll
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\refint\Framework.Core.dll
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\Framework.Core.pdb
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\obj\Debug\net7.0\ref\Framework.Core.dll
+C:\Users\I7072\source\repos\SeleniumCSharpFramework\Framework.Core\bin\Debug\net7.0\appsettings.json
